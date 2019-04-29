@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# My Awesome Book
+本书记录了学习过程中的一些东西。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-=======
-# end-book
->>>>>>> 1cb78f634b16477b1c75e98e8e578a4e90baa123
