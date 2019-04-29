@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * 1.metasploit使用教程
-  * 1.1 安装metasploit
+  * [1.1 安装metasploit](11-an-zhuang-metasploit.md)
 
