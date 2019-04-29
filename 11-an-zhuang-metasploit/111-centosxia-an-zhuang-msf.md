@@ -8,7 +8,7 @@
 
 1. 访问[msf官网](https://www.metasploit.com/)，点击下载。
 
-![](/Users/s/Documents/9-gitbook/Import/end-book/assets/BCDFF35D-05F3-4E33-A0DD-86563F33CD48.png)
+![](/assets/BCDFF35D-05F3-4E33-A0DD-86563F33CD48.png)
 
 2.跳转到github，选择对应的系统，复制对应脚本。
 
