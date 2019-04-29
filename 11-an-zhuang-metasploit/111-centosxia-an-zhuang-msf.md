@@ -8,7 +8,7 @@
 
 1. 访问[msf官网](https://www.metasploit.com/)，点击下载。 
 
-![edd52000b3aa8ed6561f4f59d36d4df4.png](evernotecid://49BEAE14-0D13-4E66-AE98-0F19E6E6BF15/appyinxiangcom/21771266/ENResource/p140) 
+
 
 2. 跳转到github，选择对应的系统，复制对应脚本。 
 
